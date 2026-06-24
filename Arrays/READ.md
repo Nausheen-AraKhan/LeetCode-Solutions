@@ -10,3 +10,4 @@
 * Prob 11: Container with most water | MEDIUM
 * Prob 27: Remove Element | EASY
 * Prob 26: Remove Duplicates from a sorted array | EASY
+* Prob 33: Rotate Array | MEDIUM
