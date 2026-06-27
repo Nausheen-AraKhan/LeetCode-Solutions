@@ -12,3 +12,4 @@
 * Prob 26: Remove Duplicates from a sorted array | EASY
 * Prob 33: Rotate Array | MEDIUM
 * Prob 2784: Check If Array Is Good | EASY
+* Prob 154: Find Minimum In rotated sorted array | HARD
