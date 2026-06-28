@@ -14,4 +14,5 @@
 * Prob 2784: Check If Array Is Good | EASY
 * Prob 154: Find Minimum In rotated sorted array | HARD
 * Prob 2540: Minimum Common Value | EASY
-* Prob 240{ Search a 2D Matrix | MEDIUM
+* Prob 240: Search a 2D Matrix | MEDIUM
+* Prob 204: Count Primes | MEDIUM
