@@ -16,3 +16,4 @@
 * Prob 2540: Minimum Common Value | EASY
 * Prob 240: Search a 2D Matrix | MEDIUM
 * Prob 204: Count Primes | MEDIUM
+* Prob 51: N-Queens | HARD
