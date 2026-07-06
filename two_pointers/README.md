@@ -16,6 +16,7 @@ It is commonly used to:
   * Prob 11: Container with most water | MEDIUM
   * Prob 26: Remove duplicates from sorted array | EASY
   * Prob 27: Remove Element | EASY
+  * Prob 344: Reverse String | EASY
   * Prob 392: Is Subsequence | EASY
   * Prob 1768: Merge Strings Alternatively | EASY
   * Prob 2540: Minimum Common Value | EASY
