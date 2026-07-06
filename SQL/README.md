@@ -2,4 +2,5 @@
 
 ⭐️PROBLEMS:
 * Prob 584: Find Customer Referee | EASY
-* Prob 595; Big Countries | EASY
+* Prob 595: Big Countries | EASY
+* Prob 1148: Article Views I | EASY
