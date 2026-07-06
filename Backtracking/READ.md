@@ -8,6 +8,7 @@ cannot lead to a valid solution.
 🚀  PROBLEMS
 * Problem 78: Subsets | MEDIUM
 * Problem 51: N-Queens | HARD
+* Problem 46: Permutations | MEDIUM 
 
 
 The Three Steps
