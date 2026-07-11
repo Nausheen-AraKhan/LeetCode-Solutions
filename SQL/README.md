@@ -3,5 +3,6 @@
 ⭐️PROBLEMS:
 * Prob 584: Find Customer Referee | EASY
 * Prob 595: Big Countries | EASY
+* Prob 1068: Product Sales Analysis | EASY
 * Prob 1148: Article Views I | EASY
 * Prob 1683: Invalid Tweets | EASY
