@@ -18,5 +18,6 @@ Operations are performed only at one end, called the **top**.
 ---
 
 ⭐️PROBLEMS
-* Prob 394: Decode String | MEDIUM
 * Prob 20: Valid Parantheses | EASY
+* Prob 155: Min Stack | MEDIUM
+* Prob 394: Decode String | MEDIUM
