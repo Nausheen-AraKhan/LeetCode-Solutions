@@ -20,4 +20,5 @@ Operations are performed only at one end, called the **top**.
 ⭐️PROBLEMS
 * Prob 20: Valid Parantheses | EASY
 * Prob 155: Min Stack | MEDIUM
+* Prob 503: Next Greater Element | MEDIUM
 * Prob 394: Decode String | MEDIUM
