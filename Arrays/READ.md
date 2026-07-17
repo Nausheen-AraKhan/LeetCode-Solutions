@@ -4,6 +4,7 @@
 * Prob 48: Rotated Image.| MEDIUM
 * Prob 4: Median of two sorted arrays.| HARD
 * Prob 66: Plus one | EASY
+* Prob 239: Sliding Window Maximum | HARD
 * Prob 55: Jump Game | MEDIUM
 * Prob 167: Two Sum II (if input array is sorted) | MEDIUM
 * Prob 503: Next Greater Element | MEDIUM
