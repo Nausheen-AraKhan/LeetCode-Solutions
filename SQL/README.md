@@ -2,6 +2,7 @@
 
 ⭐️PROBLEMS:
 * Prob 197: Rising Temperature | EASY
+* Prob 577: Employee Bonus | EASY
 * Prob 584: Find Customer Referee | EASY
 * Prob 595: Big Countries | EASY
 * Prob 1068: Product Sales Analysis I | EASY
