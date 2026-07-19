@@ -22,3 +22,4 @@ Operations are performed only at one end, called the **top**.
 * Prob 155: Min Stack | MEDIUM
 * Prob 503: Next Greater Element | MEDIUM
 * Prob 394: Decode String | MEDIUM
+* Prob 1081: Smallest string of distinct characters | MEDIUM
