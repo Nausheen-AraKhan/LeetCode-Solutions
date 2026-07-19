@@ -16,6 +16,7 @@
 * Prob 26: Remove Duplicates from a sorted array | EASY
 * Prob 33: Rotate Array | MEDIUM
 * Prob 1979: Greatest common divisor of an array | EASY
+* Prob 2149: Rearrange elements by sign | MEDIUM
 * Prob 2784: Check If Array Is Good | EASY
 * Prob 154: Find Minimum In rotated sorted array | HARD
 * Prob 2540: Minimum Common Value | EASY
