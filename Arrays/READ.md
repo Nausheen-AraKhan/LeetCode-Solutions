@@ -11,6 +11,7 @@
 * Prob 503: Next Greater Element | MEDIUM
 * Prob 540: Single Element in a sorted array | MEDIUM
 * Prob 1539: Kth missing positive number | EASY
+* Prob 1260: Shift 2D Grid | EASY
 * Prob 11: Container with most water | MEDIUM
 * Prob 27: Remove Element | EASY
 * Prob 26: Remove Duplicates from a sorted array | EASY
