@@ -10,6 +10,7 @@
 * Prob 167: Two Sum II (if input array is sorted) | MEDIUM
 * Prob 503: Next Greater Element | MEDIUM
 * Prob 540: Single Element in a sorted array | MEDIUM
+* Prob 1331: Rank Transform Of An Array | EASY
 * Prob 1539: Kth missing positive number | EASY
 * Prob 1260: Shift 2D Grid | EASY
 * Prob 11: Container with most water | MEDIUM
