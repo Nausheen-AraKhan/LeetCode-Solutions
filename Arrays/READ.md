@@ -14,6 +14,7 @@
 * Prob 1331: Rank Transform Of An Array | EASY
 * Prob 1539: Kth missing positive number | EASY
 * Prob 1260: Shift 2D Grid | EASY
+* Prob 1464: Maximum Product of Two Elements In An Array | EASY
 * Prob: 1572: Matrix Diagonal Sum | EASY
 * Prob 11: Container with most water | MEDIUM
 * Prob 27: Remove Element | EASY
